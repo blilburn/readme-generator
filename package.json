@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This application is designed to prompt the user for information to create a readme for their application. The readme generated will provide enough information for the user to create a draft of a professional readme. Additional information can be added or removed after the creation of the readme to suit the users needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blilburn/readme-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blilburn/readme-generator/issues"
+  },
+  "homepage": "https://github.com/blilburn/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
